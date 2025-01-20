@@ -1,0 +1,10 @@
+target,cv_score,classifier,scoring
+JoyfulActivation,0.4375,svc_nilearn_wrapper,roc_auc
+Nostalgia,0.671875,svc_nilearn_wrapper,roc_auc
+Peacefulness,0.734375,svc_nilearn_wrapper,roc_auc
+Power,0.796875,svc_nilearn_wrapper,roc_auc
+Sadness,0.7734375,svc_nilearn_wrapper,roc_auc
+Tenderness,0.984375,svc_nilearn_wrapper,roc_auc
+Tension,0.8828125,svc_nilearn_wrapper,roc_auc
+Transcendence,0.578125,svc_nilearn_wrapper,roc_auc
+Wonder,0.703125,svc_nilearn_wrapper,roc_auc
