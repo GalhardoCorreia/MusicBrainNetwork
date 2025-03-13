@@ -1,4 +1,11 @@
 
 /data
 /decoders_dir
+/results
 /results_seb
+/scripts_seb/nilearn_cache
+/nilearn_cache
+
+
+scripts_seb/1.\[fc\]functional-connectivity_seb.ipynb
+scripts_seb/0.\[fc\]feature-extraction_seb.ipynb
