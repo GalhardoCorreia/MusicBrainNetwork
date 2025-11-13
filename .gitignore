@@ -1,7 +1,8 @@
+*.egg-info
 
 /data
 /decoders_dir
 /results
 /results_seb
-/scripts_seb/nilearn_cache
+/scripts/nilearn_cache
 /nilearn_cache
